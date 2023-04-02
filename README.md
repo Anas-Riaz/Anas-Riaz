@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas-Riaz
-- 👀 I’m interested in Programming and learning new things.
-- 🌱 I’m currently learning programming.
+- 👀 I’m interested in web development and machinelearning.
+- 🌱 I’m currently learning frontend develoment.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 you can reach me via my email anasriazf@gmail.com
